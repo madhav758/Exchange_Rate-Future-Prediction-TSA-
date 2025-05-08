@@ -5,7 +5,7 @@ This project focuses on analyzing and forecasting currency exchange rates using 
 ## Project Overview
 Currency exchange rates are vital indicators of a country’s economic health. In this project, I explored historical exchange rate data and applied time series models to forecast future values, evaluate model performance, and draw meaningful insights.
 
-###Objectives:
+### Objectives:
 1. Understand the trends and seasonality in exchange rate data.
 
 2. Visualize the behavior of currency pairs over time.
